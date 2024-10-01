@@ -1,2 +1,5 @@
-// The Swift Programming Language
-// https://docs.swift.org/swift-book
+public class MyLibrary {
+    public func test() {
+        print("Hello from Swift")
+    }
+}
